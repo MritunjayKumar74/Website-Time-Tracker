@@ -33,13 +33,15 @@ A lightweight Chrome extension that tracks how much time you spend on each websi
 ## Project Structure
 
 ```
-website-time-tracker/
+Website-Time-Tracker/
 │
-├── manifest.json
-├── background.js
-├── popup.html
-├── popup.js
-├── popup.css
+├── Website Time Tracker/
+│   ├── manifest.json
+│   ├── background.js
+│   ├── popup.html
+│   ├── popup.js
+│   └── popup.css
+│
 └── README.md
 ```
 
